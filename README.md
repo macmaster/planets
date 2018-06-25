@@ -1,4 +1,4 @@
 # planets
 
-TODO: Enter the cookbook description here.
+chef-repo for configuring my planet-themed personal hosts.
 
